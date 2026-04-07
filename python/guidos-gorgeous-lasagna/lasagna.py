@@ -1,3 +1,4 @@
+EXPECTED_BAKE_TIME = 40
 """Functions used in preparing Guido's gorgeous lasagna.
 
 Learn about Guido, the creator of the Python language:
@@ -23,7 +24,7 @@ def bake_time_remaining():
     based on the `EXPECTED_BAKE_TIME`.
     """
     
-    return print(EXPECTED_BAKE_TIME) 40
+    return 40
 
 
 #TODO: Define the 'preparation_time_in_minutes()' function below.
